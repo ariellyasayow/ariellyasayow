@@ -6,6 +6,8 @@
   <p>Designing clear interfaces, building useful ideas, and exploring interactive experiences.</p>
 
   <img src="./assets/pixel-desk-tools.svg" alt="Pixel cursor, pencil, controller, and small cat icon" width="320" />
+  <br />
+  <img src="./assets/animated-cocoa-cat.svg" alt="Animated cocoa pixel cat waving its tail" width="170" />
 </div>
 
 ## About Me
