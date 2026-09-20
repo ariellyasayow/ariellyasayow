@@ -1,17 +1,5 @@
 <div align="center">
-  <img src="./assets/brownie-banner.svg" alt="Ariellya's cozy brownie corner" width="100%" />
-
-  <br />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=24&pause=1000&color=A66A4A&center=true&vCenter=true&width=435&lines=Hello%2C+I%27m+Ariellya+%F0%9F%8D%AA;Welcome+to+my+cozy+code+corner+%E2%9C%A8" alt="Typing introduction" />
-
-  <br />
-  <img src="./assets/ariellya-pixel-avatar.png" alt="Pixel-art portrait of Ariellya" width="128" />
-  <img src="./assets/cocoa-cat.svg" alt="A cute cocoa pixel cat" width="148" />
-
-  <p>
-    <i>Turning little ideas into warm, sweet digital things.</i>
-  </p>
+  <img src="./assets/ariellya-cat-cottage-banner.png" alt="Ariellya and her cat at a cozy forest cottage" width="100%" />
 
   <a href="https://github.com/ariellyasayow?tab=followers">
     <img src="https://img.shields.io/github/followers/ariellyasayow?label=cozy%20friends&style=for-the-badge&color=A66A4A&labelColor=FFF4E8" alt="GitHub followers" />
