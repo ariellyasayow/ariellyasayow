@@ -1,0 +1,19 @@
+<svg width="210" height="150" viewBox="0 0 210 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated black pixel cat at a computer">
+  <g shape-rendering="crispEdges">
+    <path d="M146 31h42v48h-42V31Z" fill="#121923" stroke="#C99B63" stroke-width="5"/><path d="M153 38h28v28h-28V38Z" fill="#607D8B"/><path d="M160 86h14v8h-14v-8Zm-25 8h65v8h-65v-8Z" fill="#6F4E37"/>
+    <g transform="translate(28 21)">
+      <animateTransform attributeName="transform" type="translate" values="28 21;28 17;28 21" dur="1.8s" repeatCount="indefinite"/>
+      <path d="M30 25h12V5h16v12h24V5h16v20h12v54H98v16H30V79H18V37h12V25Z" fill="#20242D"/>
+      <path d="M42 17h16v16H42V17Zm40 0h16v16H82V17Z" fill="#E4B4A4"/>
+      <path d="M42 45h16v12H42V45Zm40 0h16v12H82V45Z" fill="#FFF0B7">
+        <animate attributeName="height" values="12;2;12" keyTimes="0;.47;.55" dur="3s" repeatCount="indefinite"/>
+      </path>
+      <path d="M62 60h8v8h-8v-8Z" fill="#E4B4A4"/><path d="M54 76h24v7H54v-7Z" fill="#C99B63"/>
+      <path d="M18 69H6V57H0V45h6v12h12v12Z" fill="#20242D">
+        <animateTransform attributeName="transform" type="rotate" values="-10 18 69;10 18 69;-10 18 69" dur="1.25s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <path d="M42 118h126v8H42v-8Z" fill="#6F4E37"/>
+  </g>
+  <g fill="#C99B63"><path d="M25 20l3 7 7 3-7 3-3 7-3-7-7-3 7-3 3-7Z"><animate attributeName="opacity" values=".2;1;.2" dur="1.4s" repeatCount="indefinite"/></path><path d="M187 105l3 7 7 3-7 3-3 7-3-7-7-3 7-3 3-7Z"><animate attributeName="opacity" values="1;.2;1" dur="1.8s" repeatCount="indefinite"/></path></g>
+</svg>
