@@ -1,0 +1,14 @@
+<svg width="220" height="190" viewBox="0 0 220 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Cute cocoa brown pixel cat">
+  <g shape-rendering="crispEdges">
+    <path d="M51 49h20V29h20v20h39V29h20v20h20v20h10v70h-20v20h-20v10H71v-10H51v-20H31V69h20V49Z" fill="#6B3929"/>
+    <path d="M61 59h20V39h10v30h39V39h10v20h20v20h10v60h-20v20H71v-20H51V79h10V59Z" fill="#A66A4A"/>
+    <path d="M71 59h10v20H61V69h10V59Zm69 0h10v10h10v10h-20V59Z" fill="#F4B6C2"/>
+    <rect x="80" y="88" width="20" height="20" fill="#FFF4E8"/><rect x="130" y="88" width="20" height="20" fill="#FFF4E8"/>
+    <rect x="90" y="98" width="10" height="10" fill="#5B3426"/><rect x="130" y="98" width="10" height="10" fill="#5B3426"/>
+    <path d="M110 108h10v10h-10v-10Zm-10 20h10v10h20v-10h10v20h-10v10h-20v-10h-10v-20Z" fill="#5B3426"/>
+    <rect x="110" y="108" width="10" height="10" fill="#F4B6C2"/>
+    <path d="M31 109H11V89H1V69h10v10h10v20h20v20H31v-10Z" fill="#A66A4A"/>
+    <path d="M11 79h10v20h20v10H21v-10H11V79Z" fill="#F4B6C2"/>
+  </g>
+  <g fill="#A66A4A"><path d="M190 35l4 10 10 4-10 4-4 10-4-10-10-4 10-4 4-10Z"/><path d="M182 133l3 7 7 3-7 3-3 7-3-7-7-3 7-3 3-7Z"/></g>
+</svg>
