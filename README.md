@@ -10,7 +10,7 @@
 ## ◉ Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariellyasayow&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F4E8D4&icon_color=C99B63&text_color=C5CDD8&ring_color=C99B63" height="165" alt="Ariellya's GitHub statistics" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ariellyasayow&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F4E8D4&icon_color=C99B63&text_color=C5CDD8&ring_color=C99B63" height="165" alt="Ariellya's GitHub statistics" />
 </div>
 
 ---
@@ -19,13 +19,13 @@
 
 <table>
   <tr>
-    <td width="150" align="center" valign="top"><img src="./assets/ariellya-pixel-avatar.png" alt="Pixel-art portrait of Ariellya" width="130" /></td>
+    <td width="150" align="center" valign="top"><img src="./assets/ariellya-pixel-avatar-transparent.png" alt="Pixel-art portrait of Ariellya" width="130" /></td>
     <td valign="top">
       <strong>Hi, I’m Ariellya 👋</strong><br /><br />
       I’m an Informatics student interested in UI/UX and frontend development. I enjoy combining design, technology, and visual storytelling to create experiences that are clear, useful, and enjoyable to use.<br /><br />
       <em>Make it clear, make it useful, then make it memorable.</em>
     </td>
-    <td width="145" align="center" valign="top"><img src="./assets/black-cat-reference.png" alt="Black pixel cat at a desk" width="125" /></td>
+    <td width="145" align="center" valign="top"><img src="./assets/black-cat-transparent.png" alt="Black pixel cat" width="125" /></td>
   </tr>
 </table>
 
