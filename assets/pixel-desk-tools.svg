@@ -1,0 +1,8 @@
+<svg width="420" height="90" viewBox="0 0 420 90" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pixel desk tools">
+  <g shape-rendering="crispEdges">
+    <path d="M34 13h12v30h14v12H46v20H34V55H20V43h14V13Z" fill="#F4E8D4"/><path d="M46 13h12v12H46V13Z" fill="#C99B63"/>
+    <path d="M104 18h14l30 30-14 14-30-30V18Z" fill="#E4B4A4"/><path d="M104 18h14v14h-14V18Z" fill="#F4E8D4"/><path d="M134 62l14 14-24-10 10-4Z" fill="#C99B63"/>
+    <path d="M201 22h48v12h12v25h-12v12h-48V59h-12V34h12V22Z" fill="#C99B63"/><path d="M213 34h12v12h-12V34Zm12 12h12v12h-12V46Zm12-12h12v12h-12V34Z" fill="#0D1117"/><path d="M201 46h-12V34h12v12Zm48 0h12V34h-12v12Z" fill="#E4B4A4"/>
+    <path d="M315 28h12V16h12v12h24V16h12v12h12v36h-12v12h-48V64h-12V28Z" fill="#6F4E37"/><path d="M327 40h12v12h-12V40Zm36 0h12v12h-12V40Z" fill="#F4E8D4"/><path d="M339 58h24v6h-24v-6Z" fill="#E4B4A4"/><path d="M303 46h12v12h-12V46Zm84 0h12v12h-12V46Z" fill="#C99B63"/>
+  </g>
+</svg>
