@@ -2,7 +2,7 @@
   <img src="./assets/ariellya-cat-cottage-banner.png" alt="Pixel-art scene of Ariellya and her cat at a forest cottage" width="100%" />
 
   <h1>ARIELLYA PUTRI SAYOW</h1>
-  <p><code>UI/UX · FRONTEND · INTERACTIVE DIGITAL PRODUCTS</code></p>
+  <p><code>UI/UX · FRONTEND </code></p>
   <p>Designing clear interfaces, building useful ideas, and exploring interactive experiences.</p>
 
   <img src="./assets/pixel-desk-tools.svg" alt="Pixel cursor, pencil, controller, and small cat icon" width="320" />
@@ -15,7 +15,7 @@
     <td width="160" align="center"><img src="./assets/ariellya-pixel-avatar.png" alt="Pixel-art portrait of Ariellya" width="130" /></td>
     <td>
       Hi, I’m Ariellya 👋<br /><br />
-      I’m an Informatics student interested in UI/UX, frontend development, and interactive digital products. I enjoy combining design, technology, and visual storytelling to create experiences that are clear, useful, and enjoyable to use.
+      I’m an Informatics student interested in UI/UX and frontend development. I enjoy combining design, technology, and visual storytelling to create experiences that are clear, useful, and enjoyable to use.
     </td>
   </tr>
 </table>
@@ -29,13 +29,6 @@
 - Interactive games and digital media
 - Drawing and visual design
 
-## Selected Projects
-
-| Project | What it is |
-| --- | --- |
-| **AI Editorial Review Assistant** | An internal application to help editorial teams review article quality and ethics. |
-| **Survivor Arena** | A 2D survival game built with HTML5 Canvas and JavaScript. |
-| **UI/UX & Frontend Portfolio** | A collection of design work, research, and digital projects. |
 
 ## Tools & Technologies
 
