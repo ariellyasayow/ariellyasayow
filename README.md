@@ -2,19 +2,21 @@
   <img src="./assets/pixel/banner.svg" alt="Pixel-art sunset over a forest cottage with a cat watching from a hill" width="100%" />
   <h1>ARIELLYA PUTRI SAYOW</h1>
   <p><code>UI/UX · FRONTEND</code></p>
-  <p>Designing clear interfaces, building useful ideas, and exploring interactive experiences.</p>
   <img src="./assets/pixel/divider.svg" alt="" width="60%" />
 </div>
 
-## ◉ About Me
+<div align="center">
+  <br />
+  <img src="./assets/pixel/header-about.svg" alt="About Me" height="44" />
+  <br /><br />
+</div>
 
 <table>
   <tr>
-    <td width="150" align="center" valign="top"><img src="./assets/pixel/avatar.svg" alt="Pixel-art portrait of Ariellya with long brown hair and a maroon sweater" width="120" /></td>
-    <td valign="top">
+    <td width="150" align="center" valign="middle"><img src="./assets/pixel/avatar.svg" alt="Pixel-art portrait of Ariellya with long wavy brown hair and a maroon turtleneck sweater" width="120" /></td>
+    <td valign="middle">
       <strong>Hi, I’m Ariellya 👋</strong><br /><br />
-      I’m an Informatics student interested in UI/UX and frontend development. I enjoy combining design, technology, and visual storytelling to create experiences that are clear, useful, and enjoyable to use.<br /><br />
-      <em>Make it clear, make it useful, then make it memorable.</em>
+      I’m an Informatics student interested in UI/UX and frontend development. I enjoy combining design, technology, and visual storytelling to create experiences that are clear, useful, and enjoyable to use.
     </td>
     <td width="210" align="center" valign="middle">
       <img src="./assets/pixel/mascot.svg" alt="Pixel cat keeping a laptop company" width="200" /><br />
@@ -32,9 +34,20 @@
   </div>
 </details>
 
-<div align="center"><img src="./assets/pixel/divider.svg" alt="" width="60%" /></div>
+<div align="center">
+  <br />
+  <img src="./assets/pixel/header-character.svg" alt="Character" height="44" />
+  <br /><br />
+  <img src="./assets/pixel/character.svg" alt="Character sheet: Ariellya, UI/UX and frontend, with a cat companion" width="48%" />
+  <img src="./assets/pixel/currently.svg" alt="Currently studying informatics, building Benteng Forge, exploring games and pixel art" width="48%" />
+  <br /><br />
+</div>
 
-## ◉ What I’m Exploring
+<div align="center">
+  <br />
+  <img src="./assets/pixel/header-exploring.svg" alt="Exploring" height="44" />
+  <br /><br />
+</div>
 
 <table>
   <tr>
@@ -51,9 +64,11 @@
   </tr>
 </table>
 
-<div align="center"><img src="./assets/pixel/divider.svg" alt="" width="60%" /></div>
-
-## ◉ Featured Projects
+<div align="center">
+  <br />
+  <img src="./assets/pixel/header-projects.svg" alt="Projects" height="44" />
+  <br /><br />
+</div>
 
 <table>
   <tr>
@@ -87,40 +102,22 @@
 </table>
 
 <div align="center">
-  <sub>more in <a href="https://github.com/ariellyasayow?tab=repositories">my repositories</a> ♥</sub><br />
-  <img src="./assets/pixel/divider.svg" alt="" width="60%" />
-</div>
-
-## ◉ Tools & Technologies
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Figma-6F4E37?style=flat-square&logo=figma&logoColor=F4E8D4" alt="Figma" />
-  <img src="https://img.shields.io/badge/HTML-C06C4B?style=flat-square&logo=html5&logoColor=F4E8D4" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-C99B63?style=flat-square&logo=css3&logoColor=2E1F18" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-E2C08D?style=flat-square&logo=javascript&logoColor=2E1F18" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-7A8450?style=flat-square&logo=typescript&logoColor=F4E8D4" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-4A3225?style=flat-square&logo=react&logoColor=E2C08D" alt="React" />
-  <img src="https://img.shields.io/badge/Python-8C7B6B?style=flat-square&logo=python&logoColor=F4E8D4" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-8E3B3B?style=flat-square&logo=git&logoColor=F4E8D4" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-2E1F18?style=flat-square&logo=github&logoColor=F4E8D4" alt="GitHub" />
-</div>
-
-<br />
-
-<details>
-  <summary><b>🌱 peek at my GitHub stats</b></summary>
-  <br />
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ariellyasayow&show_icons=true&hide_border=true&bg_color=F4E8D4&title_color=6F4E37&icon_color=C06C4B&text_color=4A3225&ring_color=C06C4B" height="165" alt="Ariellya's GitHub statistics" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariellyasayow&layout=compact&hide_border=true&bg_color=F4E8D4&title_color=6F4E37&text_color=4A3225" height="165" alt="Ariellya's most used languages" />
-  </div>
-</details>
-
-<div align="center"><img src="./assets/pixel/divider.svg" alt="" width="60%" /></div>
-
-## ◉ Let’s Connect
-
-<div align="center">
+  <sub>more in <a href="https://github.com/ariellyasayow?tab=repositories">my repositories</a> ♥</sub>
+  <br /><br />
+  <img src="./assets/pixel/header-skills.svg" alt="Inventory" height="44" />
+  <br /><br />
+  <img src="./assets/pixel/inventory.svg" alt="Skills inventory: Figma, HTML, CSS, JavaScript, TypeScript, React, Python, Git, GitHub" width="80%" />
+  <br /><br />
+  <img src="./assets/pixel/header-activity.svg" alt="Activity" height="44" />
+  <br /><br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ariellyasayow/ariellyasayow/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ariellyasayow/ariellyasayow/output/github-snake.svg" />
+    <img alt="Contribution graph with a snake eating the contributions" src="https://raw.githubusercontent.com/ariellyasayow/ariellyasayow/output/github-snake.svg" width="100%" />
+  </picture>
+  <br /><br />
+  <img src="./assets/pixel/header-connect.svg" alt="Connect" height="44" />
+  <br /><br />
   <table>
     <tr>
       <td align="center" width="110"><a href="https://ariellya.vercel.app/"><img src="./assets/pixel/slot-laptop.svg" alt="Portfolio" title="Visit my portfolio" width="64" /></a><br /><sub>portfolio</sub></td>
@@ -130,5 +127,6 @@
     </tr>
   </table>
   <br />
-  <img src="./assets/pixel/slot-plant.svg" alt="" width="36" /> <sub>made with <img src="./assets/pixel/slot-heart.svg" alt="love" width="14" /> and a lot of coffee</sub>
+  <img src="./assets/pixel/sleeping-cat.svg" alt="A pixel cat sleeping on a cushion" width="180" /><br />
+  <sub>shh… the cat is sleeping. made with ♥ and a lot of coffee</sub>
 </div>
